@@ -1,0 +1,24 @@
+[
+   {
+     "partnerName": "Delta",
+      "awsLink": "https://www.google.com/",
+      "iconName": "testing",
+      "altText": "plane icon",
+      "imgSrc": "./img/marriott-shield.svg",
+      "filePaths": {
+         "path1": "smile.png",
+         "path2": "frown.jpg"
+      }
+   },
+   {
+      "partnerName": "amtrak",
+       "awsLink": "https://www.google.com/",
+       "iconName": "testing",
+       "altText": "train icon",
+       "imgSrc": "./img/marriott-InformationIcon.svg",
+       "filePaths": {
+          "path1": "smile.png",
+          "path2": "frown.jpg"
+       }
+    }
+ ]
